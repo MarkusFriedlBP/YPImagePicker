@@ -12,11 +12,11 @@
       },
       {
         "package": "Stevia",
-        "repositoryURL": "https://github.com/MarkusFriedlBP/Stevia.git",
+        "repositoryURL": "https://github.com/fitapp-os/Stevia",
         "state": {
           "branch": null,
-          "revision": "d41bb01c5dca77e491d150655d249f3d96827c62",
-          "version": "5.2.1"
+          "revision": "4d9038ac7203e8c53c89d16fed3b7c823fad015d",
+          "version": "5.2.2"
         }
       }
     ]
